@@ -1,4 +1,8 @@
-### Hi there 👋
+I am a front-end developer looking to do my part in making the web a better place. As a graduate of Grand Circus' front-end boot camp, I have been provided with the necessary skills to make this happen. The rigorous nature of the program has taught me not only to code but how to effectively listen and learn at an extremely accelerated pace. I am familiar with all key front end languages and concepts including HTML, CSS, JavaScript, TypeScript, Node.JS, and Angular. Throughout the boot camp, I also gained vital experience in working with a team to tackle any assigned task. Especially with the various projects in which I would be pair programming with a partner to meet specified deadlines.
+
+Before deciding to get into web development, I worked for a distribution company both in the warehouse and later doing some inventory and logistics auditing. It was there that I found great satisfaction in solving problems and learned the true value of a hard day’s work. I have a great interest in business operations and a passion for making things work as efficiently as possible. 
+
+I am seeking a front-end developer position that allows me to both better myself and the company. I am extremely versatile and eager to learn. The web is the future, let's shape it together.
 
 <!--
 **jjchase/jjchase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
